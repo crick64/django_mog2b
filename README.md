@@ -28,4 +28,4 @@ Let people know how they can dive into the project, include important links to t
 
 ## License
 
-See *LICENSE* for license information.
+See [a relative link](LICENSE) for more detail.
